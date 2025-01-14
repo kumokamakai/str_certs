@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# MAKE SURE YOU chmod +x run_download_certificates.sh BEFORE RUNNING THIS SCRIPT
+
 # Define the name of the script
 SCRIPT_NAME="download_certificates.sh"
 
